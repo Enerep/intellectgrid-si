@@ -3,5 +3,5 @@ window.SITE_CONFIG = Object.freeze({
   domain: 'intellectgrid.si',
   brand: 'IntellectGrid',
   contactEmail: 'batcontact.help@gmail.com',
-  scene: 'network',
+  scene: 'sculpture',
 });
